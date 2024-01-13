@@ -1,0 +1,31 @@
+{
+  "name": "mrdoctor-backend",
+  "version": "1.0.0",
+  "description": "doctor appoiment management system ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/railyndejesus/mrdoctor.git"
+  },
+  "keywords": [
+    "node",
+    "sql",
+    "api"
+  ],
+  "author": "Railyn Daniel De Jesus Montero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/railyndejesus/mrdoctor/issues"
+  },
+  "homepage": "https://github.com/railyndejesus/mrdoctor#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
